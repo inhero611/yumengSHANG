@@ -1,2 +1,2 @@
 # yumengSHANG
-GIS,web,pythom,r,
+GIS,web,pythom,r
